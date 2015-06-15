@@ -2,7 +2,7 @@
 # Original wolf-data package by M0Rf30
 pkgname=wolf-data-steam
 pkgver=1.41b
-pkgrel=2
+pkgrel=3
 pkgdesc="Return to Castle Wolfenstein native Linux Single Player data via Steam"
 arch=('any')
 conflicts=('wolf-data')
